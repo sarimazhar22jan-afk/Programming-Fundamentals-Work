@@ -1,0 +1,13 @@
+#include<iostream>
+using namespace std;
+main(){
+cout<<"Enter your name:  ";
+string name;
+cin>>name;
+if(name == "Ali") {
+    cout <<"Welcome Ali";
+}
+if(name != "Ali"){
+    cout <<"Try again";
+}
+}
