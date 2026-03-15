@@ -7,7 +7,7 @@ cin>>name;
 if(name == "Ali") {
     cout <<"Welcome Ali";
 }
-if(name != "Ali"){
+else{
     cout <<"Try again";
 }
 }

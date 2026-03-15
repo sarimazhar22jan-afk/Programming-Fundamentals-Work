@@ -8,7 +8,7 @@ cin>>going;
 if(going == 'y'){
     cout <<"you are also going";
 }
-if(going == 'n'){
+else{
     cout <<"you are not going";
 }
 

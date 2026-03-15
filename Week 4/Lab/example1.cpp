@@ -9,7 +9,7 @@ if(cost < 1500){
 
     cout<<"Buy this dress";
 }
-if(cost > 1500){
+else{
 
     cout<< "Don't buy this dress";
 }
